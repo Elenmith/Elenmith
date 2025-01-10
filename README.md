@@ -1,16 +1,27 @@
-## Hi there 👋
+# Cześć! Hello! 👋 Witaj na moim profilu GitHub!
 
-<!--
-**Elenmith/Elenmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jestem Radek!
 
-Here are some ideas to get you started:
+👨‍💻 **Junior/Frontend/Fullstack Developer**  
+🌱 Aktualnie uczę się: **React, Node.js, Next.js**  
+💻 Pracuję nad: [AnimeMood](https://github.com/TwojaNazwaUzytkownika/AnimeMood)  
+📫 Możesz mnie znaleźć na:  
+- 🌐 [Moja strona](IN_PROGRESS:))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-kowalczyk-180473258/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Umiejętności
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+- **Backend:** Node.js, Java
+- **Bazy danych:** SQLite, Room, MongoDB
+- **Narzędzia:** Git, Figma, Asana
+
+---
+
+## 📂 Projekty
+
+Aktualnie pracuję nad:
+
+### [AnimeMood](https://github.com/Elenmith/AnimeMood)
+Aplikacja rekomendująca anime na podstawie nastroju użytkownika. Użyte technologie: **React**, **Node.js**, **MongoDB**.
