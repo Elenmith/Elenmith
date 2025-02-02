@@ -12,9 +12,9 @@
 ---
 
 ## 🔧 Umiejętności
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
 - **Backend:** Node.js, Java
-- **Bazy danych:** SQLite, Room, MongoDB
+- **Bazy danych:** SQLite, MySQL, MongoDB
 - **Narzędzia:** Git, Figma, Asana
 
 ---
