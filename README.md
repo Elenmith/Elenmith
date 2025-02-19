@@ -2,8 +2,8 @@
 
 ### Jestem Radek!
 
-👨‍💻 **Junior/Frontend/Fullstack Developer**  
-🌱 Aktualnie uczę się: **React, Node.js, Next.js**  
+👨‍💻 **Fullstack Developer**  
+🌱 Aktualnie uczę się: **React, Node.js, Next.js, Spring**  
 💻 Pracuję nad: [AnimeMood](https://github.com/Elenmith/AnimeMood)  
 📫 Możesz mnie znaleźć na:  
 - 🌐 [Moja strona - in progress :)](IN_PROGRESS)  
