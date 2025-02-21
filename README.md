@@ -25,3 +25,6 @@ Aktualnie pracuję nad:
 
 ### [AnimeMood](https://github.com/Elenmith/AnimeMood)
 Aplikacja rekomendująca anime na podstawie nastroju użytkownika. Użyte technologie: **React**, **Node.js**, **MongoDB**.
+
+### [CRM-Visiblify](https://github.com/Elenmith/CRMVisiblify)
+Aplikacja wspierająca dla projektu visiblify.com. Użyte technologie: **React**, **Tailwind CSS**, **Java**, **MySQL**. 
