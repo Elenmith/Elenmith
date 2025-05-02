@@ -6,16 +6,16 @@
 🌱 Aktualnie uczę się: **React, Node.js, Next.js, Spring**  
 💻 Pracuję nad: [AnimeMood](https://github.com/Elenmith/AnimeMood)  
 📫 Możesz mnie znaleźć na:  
-- 🌐 [Moja strona - in progress :)](IN_PROGRESS)  
+- 🌐 [Moja strona](https://www.radoslawkowalczyk.pl)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-kowalczyk-180473258/)
 
 ---
 
 ## 🔧 Umiejętności
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
-- **Backend:** Node.js, Java
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, React Native
+- **Backend:** Node.js, Java, Spring
 - **Bazy danych:** SQLite, MySQL, MongoDB
-- **Narzędzia:** Git, Figma, Asana
+- **Narzędzia:** Git, Figma, Asana, Postman, Firebase
 
 ---
 
