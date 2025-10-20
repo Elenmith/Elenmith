@@ -12,10 +12,11 @@
 ---
 
 ## 🔧 Umiejętności
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, React Native
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Typescript
 - **Backend:** Node.js, Java, Spring
 - **Bazy danych:** SQLite, MySQL, MongoDB
 - **Narzędzia:** Git, Figma, Asana, Postman, Firebase
+- **Aplikacje mobilne:** React Native, Java
 
 ---
 
