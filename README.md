@@ -13,9 +13,9 @@
 
 ## 🔧 Umiejętności
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Typescript
-- **Backend:** Node.js, Java, Spring
-- **Bazy danych:** SQLite, MySQL, MongoDB
-- **Narzędzia:** Git, Figma, Asana, Postman, Firebase
+- **Backend:** Node.js, Java, Spring, Python, FastAPI
+- **Bazy danych:** SQLite, MySQL, MongoDB, PostgreSQL
+- **Narzędzia:** Git, Figma, Asana, Postman, Firebase, Docker
 - **Aplikacje mobilne:** React Native, Java
 
 ---
