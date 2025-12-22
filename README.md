@@ -1,4 +1,4 @@
-# Cześć! Hello! 👋 Witaj na moim profilu GitHub!
+# Cześć!
 
 ### Jestem Radek!
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔧 Umiejętności
+##  Umiejętności
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Typescript
 - **Backend:** Node.js, Java, Spring, Python, FastAPI
 - **Bazy danych:** SQLite, MySQL, MongoDB, PostgreSQL
