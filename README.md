@@ -2,12 +2,12 @@
 
 ### Jestem Radek!
 
-👨‍💻 **Fullstack Developer**  
-🌱 Aktualnie uczę się: **React, Node.js, Next.js, Spring**  
-💻 Pracuję nad: [AnimeMood](https://github.com/Elenmith/AnimeMood)  
-📫 Możesz mnie znaleźć na:  
-- 🌐 [Moja strona](https://www.radoslawkowalczyk.pl)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-kowalczyk-180473258/)
+ **Fullstack Developer**  
+ Aktualnie uczę się: **React, Node.js, Next.js, Spring**  
+ Pracuję nad: [AnimeMood](https://github.com/Elenmith/AnimeMood)  
+ Możesz mnie znaleźć na:  
+-  [Moja strona](https://www.radoslawkowalczyk.pl)  
+-  [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-kowalczyk-180473258/)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📂 Projekty
+##  Projekty
 
 Aktualnie pracuję nad:
 
